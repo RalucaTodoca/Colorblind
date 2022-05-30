@@ -1,0 +1,3 @@
+rootProject.name = "Colorblind"
+include ':app'
+include ':openCVLibrary320'
