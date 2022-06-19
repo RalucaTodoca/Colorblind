@@ -58,6 +58,7 @@
         <activity android:name=".ColorBlobDetectionActivity"
                    />
         <activity android:name=".Daltonize" />
+        <activity android:name=".Info" />
 
     </application>
 

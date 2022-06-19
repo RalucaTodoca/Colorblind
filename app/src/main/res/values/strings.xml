@@ -27,4 +27,40 @@
     <string name="plate23r">Those with normal color vision should be able to trace the red and orange wiggly line.\n Red green color blind people will trace the red and blue-green wiggly line.\n People with total color blindness will be unable to trace any line.</string>
     <string name="plate24r">Congratulations, you made it to the end! Everyone should be able to trace this wiggly line.</string>
     <string name="next">NEXT</string>
+
+    <string name="hyperlink">At a glance: Color Blindness \n Symptoms: Trouble telling the difference between colors \nDiagnosis: Color vision test \nTreatment: Special glasses and contacts, visual aids...
+                   <a href="https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness">Read more</a>
+    </string>>
+
+    <string name="hyperlink1">Study finds that special filters in glasses can help the color blind see colors better...
+                   <a href="https://www.nei.nih.gov/about/news-and-events/news/study-finds-special-filters-glasses-can-help-color-blind-see-colors-better">Read more</a>
+    </string>>
+
+    <string name="hyperlink2">A World Without Color – Researchers Find Gene Mutation That Strips Color, Reduces Vision...
+                   <a href="https://www.nei.nih.gov/about/news-and-events/news/world-without-color-researchers-find-gene-mutation-strips-color-reduces-vision">Read more</a>
+    </string>>
+
+    <string name="hyperlink3">What Is Color Blindness?...
+                   <a href="https://www.webmd.com/eye-health/color-blindness">Read more</a>
+    </string>>
+
+    <string name="hyperlink4">What Causes Color Blindness?...
+                   <a href="https://www.brainandlife.org/articles/people-who-are-color-blind-cant-see-the-full-range/">Read more</a>
+    </string>>
+
+    <string name="hyperlink5">  Suitability of school textbooks for 5 to 7 year old children with colour vision deficiencies...
+                   <a href="https://www.sciencedirect.com/science/article/abs/pii/S1041608011000811">Read more</a>
+    </string>>
+
+    <string name="hyperlink6">  How do the Colorblind Think and Talk about Color?...
+                   <a href="https://wearecolorblind.com/articles/how-do-the-colorblind-think-and-talk-about-color/">Read more</a>
+    </string>>
+
+    <string name="hyperlink7">  Why buying clothes is frustrating for the colorblind...
+                   <a href="https://wearecolorblind.com/articles/why-buying-clothes-is-frustrating-for-the-colorblind/">Read more</a>
+    </string>>
+
+
+
+
 </resources>

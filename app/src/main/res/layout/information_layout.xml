@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:id="@+id/information_layout"
+             android:paddingTop="30dp"
+             android:background="#ffffff"
+             android:orientation="vertical"
+             tools:context=".Info" >
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:text="Basic information about color blindness"
+            android:textColor="#000000"
+            android:layout_marginBottom="20dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="30dp"
+            android:text="Color blindness (color vision deficiency) is the decreased
+ ability to see color or differences in color.
+It can impair tasks such as selecting ripe fruit, choosing clothing,
+and reading traffic lights. Color blindness may make some educational
+activities more difficult. However, problems are generally minor,
+and most color-blind adapt. People with total color blindness (achromatopsia)
+may also be uncomfortable
+in bright environments and have decreased visual acuity."
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="Useful articles"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink"
+            android:textColor="#000000"
+            android:id="@+id/link1"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink1"
+            android:textColor="#000000"
+            android:id="@+id/link2"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink2"
+            android:textColor="#000000"
+            android:id="@+id/link3"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink3"
+            android:textColor="#000000"
+            android:id="@+id/link4"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink4"
+            android:textColor="#000000"
+            android:id="@+id/link5"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink5"
+            android:textColor="#000000"
+            android:id="@+id/link6"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink6"
+            android:textColor="#000000"
+            android:id="@+id/link7"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="2dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_horizontal"
+            android:paddingBottom="10dp"
+            android:text="@string/hyperlink7"
+            android:textColor="#000000"
+            android:id="@+id/link8"
+            android:layout_marginBottom="10dp"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>
